@@ -26,7 +26,7 @@
 
 ![Name](https://img.shields.io/badge/👤_Santosh_Pant-0d1117?style=for-the-badge)
 ![Location](https://img.shields.io/badge/📍_Bhimtal,_Uttarakhand-0d1117?style=for-the-badge)
-![Education](https://img.shields.io/badge/🎓_MCA_—_IGNOU-0d1117?style=for-the-badge)
+![Education](https://img.shields.io/badge/🎓_MCA_—_-0d1117?style=for-the-badge)
 ![Passions](https://img.shields.io/badge/❤️_AI/ML_·_Cybersecurity_·_Open_Source-0d1117?style=for-the-badge)
 ![Setup](https://img.shields.io/badge/💻_Lenovo_LOQ_(RTX_3050)-0d1117?style=for-the-badge)
 
