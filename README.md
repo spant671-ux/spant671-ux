@@ -24,15 +24,13 @@
 
 ## 🧑‍💻 About Me
 
-```js
-const santosh = {
-  name:      "Santosh Pant",
-  location:  "Bhimtal, Uttarakhand 🏔️",
-  education: "MCA — IGNOU",
-  passions:  ["AI/ML", "Cybersecurity", "Open Source"],
-  setup:     "Lenovo LOQ (RTX 3050) 💻",
-};
-```
+| | |
+|---|---|
+| 👤 **Name** | Santosh Pant |
+| 📍 **Location** | Bhimtal, Uttarakhand |
+| 🎓 **Education** | MCA — IGNOU |
+| ❤️ **Passions** | AI/ML · Cybersecurity · Open Source |
+| 💻 **Setup** | Lenovo LOQ (RTX 3050) |
 
 ---
 
