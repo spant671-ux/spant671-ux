@@ -26,15 +26,11 @@
 
 ```js
 const santosh = {
-  name:       "Santosh Pant",
-  handle:     "@spant671-ux",
-  location:   "Bhimtal, Uttarakhand 🏔️",
-  education:  "B.Sc. Computer Science — IGNOU",
-  roles:      ["Full-Stack Dev", "Security Researcher", "Hackathon Builder"],
-  passions:   ["AI/ML", "Cybersecurity", "Open Source"],
-  currentlyBuilding: "PhishGuard — AI-powered phishing detection",
-  favSetup:   { laptop: "Lenovo LOQ (RTX 3050)", phone: "Nothing Phone 3a Lite" },
-  funFact:    "I name my LLMs like game characters 🎮",
+  name:      "Santosh Pant",
+  location:  "Bhimtal, Uttarakhand 🏔️",
+  education: "MCA — IGNOU",
+  passions:  ["AI/ML", "Cybersecurity", "Open Source"],
+  setup:     "Lenovo LOQ (RTX 3050) 💻",
 };
 ```
 
@@ -165,17 +161,6 @@ Documenting my journey through Java and Python — raw, honest, and growing.
 
 ---
 
-## 🎮 Beyond the Code
-
-```
-🎮  Gaming      →  Red Dead Redemption 2  |  Resident Evil series
-🎵  Music       →  Kanye West  |  Bollywood
-📱  Daily Drive →  Nothing Phone 3a Lite
-💻  Setup       →  Lenovo LOQ + RTX 3050  (beast mode 🔥)
-🌄  Based in    →  Bhimtal, Uttarakhand — mountains > everything
-```
-
----
 
 <div align="center">
 
