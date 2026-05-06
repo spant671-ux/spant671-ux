@@ -13,7 +13,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/spant671-ux?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=00D9FF&color=0d1117)](https://github.com/spant671-ux?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=spant671-ux&style=for-the-badge&color=00D9FF)](https://github.com/spant671-ux)
 ![Location](https://img.shields.io/badge/Bhimtal,_Nainital,_Uttarakhand-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00D9FF)
-![Education](https://img.shields.io/badge/MCA-IGNOU-0d1117?style=for-the-badge&logo=readthedocs&logoColor=00D9FF)
+![Education](https://img.shields.io/badge/MCA-0d1117?style=for-the-badge&logo=readthedocs&logoColor=00D9FF)
 
 </div>
 
