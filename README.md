@@ -15,8 +15,8 @@
 <!-- Social / Profile Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/spant671-ux?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=00D9FF)](https://github.com/spant671-ux)
 [![Profile Views](https://komarev.com/ghpvc/?username=spant671-ux&style=for-the-badge&color=00D9FF)](https://github.com/spant671-ux)
-![Location](https://img.shields.io/badge/📍_Uttarakhand,_India-0d1117?style=for-the-badge)
-![CS](https://img.shields.io/badge/🎓_CS-Student-00D9FF?style=for-the-badge&color=0d1117)
+![Location](https://img.shields.io/badge/📍_Bhimtal,_Nainital,_Uttarakhand-0d1117?style=for-the-badge)
+![IGNOU](https://img.shields.io/badge/🎓_IGNOU_CS-Student-00D9FF?style=for-the-badge&color=0d1117)
 
 </div>
 
@@ -25,9 +25,9 @@
 ## 🧑‍💻 About Me
 
 ![Name](https://img.shields.io/badge/👤_Santosh_Pant-0d1117?style=for-the-badge)
-![Location](https://img.shields.io/badge/📍_Bhimtal,_Uttarakhand-0d1117?style=for-the-badge)
-![Education](https://img.shields.io/badge/🎓_MCA_—_-0d1117?style=for-the-badge)
-![Passions](https://img.shields.io/badge/❤️_AI/ML_·_·_Open_Source-0d1117?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍_Bhimtal,_Nainital,_Uttarakhand-0d1117?style=for-the-badge)
+![Education](https://img.shields.io/badge/🎓_MCA_—_IGNOU-0d1117?style=for-the-badge)
+![Passions](https://img.shields.io/badge/❤️_AI/ML_·_Cybersecurity_·_Open_Source-0d1117?style=for-the-badge)
 ![Setup](https://img.shields.io/badge/💻_Lenovo_LOQ_(RTX_3050)-0d1117?style=for-the-badge)
 
 ---
