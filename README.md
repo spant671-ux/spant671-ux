@@ -26,7 +26,7 @@
 ![Name](https://img.shields.io/badge/Santosh_Pant-0d1117?style=for-the-badge&logo=github&logoColor=00D9FF)
 ![Location](https://img.shields.io/badge/Bhimtal,_Nainital,_Uttarakhand-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00D9FF)
 ![Education](https://img.shields.io/badge/MCA-IGNOU-0d1117?style=for-the-badge&logo=readthedocs&logoColor=00D9FF)
-![Interests](https://img.shields.io/badge/AI%2FML_%7C_Cybersecurity_%7C_Open_Source-0d1117?style=for-the-badge&logo=buffer&logoColor=00D9FF)
+![Interests](https://img.shields.io/badge/AI%2FML_%7C_Open_Source-0d1117?style=for-the-badge&logo=buffer&logoColor=00D9FF)
 ![Setup](https://img.shields.io/badge/Lenovo_LOQ_RTX_3050-0d1117?style=for-the-badge&logo=nvidia&logoColor=76B900)
 
 </div>
