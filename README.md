@@ -13,10 +13,9 @@
 <div align="center">
 
 <!-- Social / Profile Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/spant671-ux?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=00D9FF)](https://github.com/spant671-ux)
 [![Profile Views](https://komarev.com/ghpvc/?username=spant671-ux&style=for-the-badge&color=00D9FF)](https://github.com/spant671-ux)
 ![Location](https://img.shields.io/badge/📍_Bhimtal,_Nainital,_Uttarakhand-0d1117?style=for-the-badge)
-![IGNOU](https://img.shields.io/badge/🎓_IGNOU_CS-Student-00D9FF?style=for-the-badge&color=0d1117)
+![IGNOU](https://img.shields.io/badge/MCA-IGNOU-00D9FF?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 </div>
 
@@ -24,11 +23,15 @@
 
 ## 🧑‍💻 About Me
 
-![Name](https://img.shields.io/badge/👤_Santosh_Pant-0d1117?style=for-the-badge)
-![Location](https://img.shields.io/badge/📍_Bhimtal,_Nainital,_Uttarakhand-0d1117?style=for-the-badge)
-![Education](https://img.shields.io/badge/🎓_MCA_—_IGNOU-0d1117?style=for-the-badge)
-![Passions](https://img.shields.io/badge/❤️_AI/ML_·_Cybersecurity_·_Open_Source-0d1117?style=for-the-badge)
-![Setup](https://img.shields.io/badge/💻_Lenovo_LOQ_(RTX_3050)-0d1117?style=for-the-badge)
+<div align="center">
+
+![Name](https://img.shields.io/badge/Santosh_Pant-0d1117?style=for-the-badge&logo=person&logoColor=00D9FF)
+![Location](https://img.shields.io/badge/Bhimtal,_Nainital,_Uttarakhand-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00D9FF)
+![Education](https://img.shields.io/badge/MCA-IGNOU-0d1117?style=for-the-badge&logo=readthedocs&logoColor=00D9FF)
+![Passions](https://img.shields.io/badge/AI%2FML_%C2%B7_Cybersecurity_%C2%B7_Open_Source-0d1117?style=for-the-badge)
+![Setup](https://img.shields.io/badge/Lenovo_LOQ_(RTX_3050)-0d1117?style=for-the-badge&logo=nvidia&logoColor=76B900)
+
+</div>
 
 ---
 
@@ -137,9 +140,7 @@ Documenting my journey through Java and Python — raw, honest, and growing.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spant671-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spant671-ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&langs_count=6" />
 
-<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=spant671-ux&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
