@@ -180,8 +180,8 @@ Documenting my journey through programming fundamentals.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-spant671-ux.vercel.app/api?username=spant671-ux&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&ring_color=00D9FF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats-spant671-ux.vercel.app/api/top-langs/?username=spant671-ux&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spant671-ux&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&ring_color=00D9FF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spant671-ux&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
