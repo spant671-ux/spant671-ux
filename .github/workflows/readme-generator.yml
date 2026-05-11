@@ -21,17 +21,14 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 3
 
-      - name: 📊 Right Panel - Languages & Repositories
+      - name: 📊 Right Panel - Languages
         uses: lowlighter/metrics@latest
         with:
           filename: assets/right.svg
           token: ${{ secrets.GH_TOKEN }}
           user: spant671-ux
           base: ""
-          config_order: languages, repositories
+          config_order: languages
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage, lines
           plugin_languages_limit: 8
-          plugin_repositories: yes
-          plugin_repositories_pinned: 3
