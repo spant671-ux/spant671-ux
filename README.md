@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santosh%20Pant&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32)
+<img src="https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/header.png" width="100%" />
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm 𝓢𝓪𝓷𝓽𝓸𝓼𝓱</h1>
 
@@ -39,35 +39,6 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 
 | <img src="https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/left.svg" /> | <img src="https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/right.svg" /> |
 | :---: | :---: |
-
-### 🧑‍💻 About Me
-
-```yaml
-name: Santosh Pant
-location: Bhimtal, Nainital, Uttarakhand 🏔️
-education: MCA — IGNOU
-setup: Lenovo LOQ | RTX 3050
-currently_learning: [ "Java", "Data Structures", "AI/ML" ]
-interests: [ "Full-Stack Dev", "AI/ML", "Cybersecurity", "Open Source" ]
-fun_fact: "I push directly to main and call it a feature 🚀"
-```
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spant671-ux&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&ring_color=00D9FF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spant671-ux&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=spant671-ux&theme=react&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=spant671-ux&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-
-</div>
 
 ---
 
