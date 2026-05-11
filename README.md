@@ -37,21 +37,8 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 
 ### 👀 Social Media
 
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spant671-ux&theme=github_dark" alt="Profile Details" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spant671-ux&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spant671-ux&theme=github_dark" alt="Repos per Language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spant671-ux&theme=github_dark" alt="Most Commit Language" />
-
-<br/>
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spant671-ux&theme=github_dark" alt="Stats" />
-
-</div>
+| <img src="https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/left.svg" /> | <img src="https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/right.svg" /> |
+| :---: | :---: |
 
 ### 🧑‍💻 About Me
 

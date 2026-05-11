@@ -1,0 +1,41 @@
+name: Readme Generator
+on:
+  schedule: [{cron: '0 0 * * *'}]
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 📊 Left Panel - Profile & Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/left.svg
+          token: ${{ secrets.GH_TOKEN }}
+          user: spant671-ux
+          base: header, activity, community, repositories
+          base_indepth: yes
+          config_order: base.header, isocalendar, stars
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_stars: yes
+          plugin_stars_limit: 3
+
+      - name: 📊 Right Panel - Languages & Habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/right.svg
+          token: ${{ secrets.GH_TOKEN }}
+          user: spant671-ux
+          base: ""
+          config_order: languages, habits
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts_type: classic
+          plugin_habits_trim: yes
