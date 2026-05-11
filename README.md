@@ -16,17 +16,7 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 
 </div>
 
-### 💫 Top Languages
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=spant671-ux&layout=compact&theme=transparent&hide_border=true&title_color=ffcb47&text_color=a6adc8&bg_color=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=spant671-ux&layout=compact&theme=transparent&hide_border=true&title_color=dbab3b&text_color=333333&bg_color=00000000">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spant671-ux&layout=compact&theme=transparent&hide_border=true&title_color=ffcb47&text_color=a6adc8&bg_color=0d1117" alt="Top Languages" />
-  </picture>
-</p>
-
-### 🛠️ Tech Stack and Tools
+### 💫 Tech Stack and Tools
 
 | ![][h-languages] | ![][lang-java] ![][lang-javascript] ![][lang-python] ![][lang-html] ![][lang-css]                                                                                     |
 | :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -38,22 +28,9 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 
 ### ⭐️ Projects
 
-<p align="center">
-  <a href="https://github.com/spant671-ux/Phishing-Detection">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=spant671-ux&repo=Phishing-Detection&theme=transparent&hide_border=true&title_color=ffcb47&text_color=a6adc8&icon_color=ffcb47&bg_color=00000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=spant671-ux&repo=Phishing-Detection&theme=transparent&hide_border=true&title_color=dbab3b&text_color=333333&icon_color=dbab3b&bg_color=00000000">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=spant671-ux&repo=Phishing-Detection&theme=transparent&hide_border=true&title_color=ffcb47&text_color=a6adc8&icon_color=ffcb47&bg_color=0d1117" alt="Phishing-Detection" />
-    </picture>
-  </a>
-  <a href="https://github.com/spant671-ux/EcoMate">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=spant671-ux&repo=EcoMate&theme=transparent&hide_border=true&title_color=ffcb47&text_color=a6adc8&icon_color=ffcb47&bg_color=00000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=spant671-ux&repo=EcoMate&theme=transparent&hide_border=true&title_color=dbab3b&text_color=333333&icon_color=dbab3b&bg_color=00000000">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=spant671-ux&repo=EcoMate&theme=transparent&hide_border=true&title_color=ffcb47&text_color=a6adc8&icon_color=ffcb47&bg_color=0d1117" alt="EcoMate" />
-    </picture>
-  </a>
-</p>
+| [**🛡️ PhishGuard**][phishguard-github]<br/>An AI-powered phishing detection system combining local LLM inference (Ollama/Llama3) with a 12+ rule heuristic engine to detect phishing sites in real time.<br/><br/>![][phishguard-shield] | `70% LLM + 30% Rules` · Chrome MV3 · React Native · Privacy-first |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------- |
+| [**🌿 EcoMate**][ecomate-github]<br/>An environmental awareness platform built for a hackathon — helps users track and reduce their carbon footprint.<br/><br/>![][ecomate-shield]                                                       | Green-tech focused · Mobile-friendly · Hackathon submission        |
 
 > \[!NOTE]
 > Find more in my learning repos: [☕ Learning Java](https://github.com/spant671-ux/Learning-Java) · [🐍 Learning Python](https://github.com/spant671-ux/Learning-Python)
