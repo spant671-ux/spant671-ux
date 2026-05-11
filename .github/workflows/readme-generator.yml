@@ -21,20 +21,17 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 3
 
-      - name: 📊 Right Panel - Languages, Music, Steam
+      - name: 📊 Right Panel - Languages, Music
         uses: lowlighter/metrics@latest
         with:
           filename: assets/right.svg
           token: ${{ secrets.GH_TOKEN }}
           user: spant671-ux
           base: ""
-          config_order: languages, music, steam
+          config_order: languages, music
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
-          plugin_steam: yes
-          plugin_steam_user: "YOUR_STEAM_ID"
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
