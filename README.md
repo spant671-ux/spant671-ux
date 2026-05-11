@@ -28,7 +28,6 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 | ![][h-shell]     | ![][shell-terminal]                                                                                                                                                   |
 | ![][h-os]        | ![][os-win11]                                                                                                                                                         |
 | ![][h-other]     | ![][other-chatgpt] ![][other-claude] ![][other-ollama] ![][other-notion]                                                                                              |
-| ![][h-connect]   | ![][connect-linkedin]                                                                                                                                                 |
 
 ### ⭐️ Projects
 
@@ -82,7 +81,6 @@ Hit me up anytime and come vibe with my projects. Let's build some cool stuff to
 [other-claude]: https://img.shields.io/badge/-Claude-000?style=flat-square&logoColor=white&logo=anthropic
 [other-ollama]: https://img.shields.io/badge/-Ollama-000?style=flat-square&logoColor=white&logo=ollama
 [other-notion]: https://img.shields.io/badge/-Notion-000?style=flat-square&logoColor=white&logo=notion
-[connect-linkedin]: https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logoColor=white&logo=linkedin
 [h-languages]: https://img.shields.io/badge/-LANGUAGES-000?style=flat-square
 [h-frontend]: https://img.shields.io/badge/-FRONTEND-000?style=flat-square
 [h-database]: https://img.shields.io/badge/-DATABASE-000?style=flat-square
@@ -92,7 +90,7 @@ Hit me up anytime and come vibe with my projects. Let's build some cool stuff to
 [h-shell]: https://img.shields.io/badge/-SHELL-000?style=flat-square
 [h-os]: https://img.shields.io/badge/-OS-000?style=flat-square
 [h-other]: https://img.shields.io/badge/-OTHER-000?style=flat-square
-[h-connect]: https://img.shields.io/badge/-CONNECT-000?style=flat-square
+
 [phishguard-github]: https://github.com/spant671-ux/Phishing-Detection
 [phishguard-shield]: https://img.shields.io/github/stars/spant671-ux/Phishing-Detection?color=ffcb47&labelColor=black&style=flat-square&logo=github
 [ecomate-github]: https://github.com/spant671-ux/EcoMate
