@@ -18,13 +18,144 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 
 ### 💫 Tech Stack and Tools
 
-| ![][h-languages] | ![][lang-java] ![][lang-javascript] ![][lang-python] ![][lang-html] ![][lang-css]                                                                                     |
-| :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![][h-frontend]  | ![][frontend-react] ![][frontend-vite] ![][frontend-tailwind] ![][frontend-nodejs] ![][frontend-express]                                                              |
-| ![][h-database]  | ![][db-postgresql] ![][db-mysql]                                                                                                                                      |
-| ![][h-tools]     | ![][tools-git] ![][tools-vscode] ![][tools-github] ![][tools-intellij]                                                                                                |
-| ![][h-os]        | ![][os-win] ![][os-ubuntu]                                                                                                                                            |
-| ![][h-other]     | ![][other-chatgpt] ![][other-ollama]                                                                                                                                  |
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br><b>Python</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br><b>Java</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br><b>HTML5</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br><b>CSS3</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br><b>React</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br><b>Vite</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
+<br><b>Tailwind</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br><b>Node.js</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br><b>Express</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br><b>MongoDB</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br><b>PostgreSQL</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br><b>MySQL</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
+<br><b>Anaconda</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br><b>Postman</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br><b>Figma</b>
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="48" alt="Framer" />
+<br><b>Framer</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br><b>Vercel</b>
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="48" alt="Notion" />
+<br><b>Notion</b>
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/Codespaces-181717?style=for-the-badge&logo=github&logoColor=white" height="48" alt="GitHub Codespaces" />
+<br><b>Codespaces</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br><b>Git</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br><b>VS Code</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br><b>GitHub</b>
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" height="48" alt="Windows Terminal" />
+<br><b>Terminal</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Win 11" />
+<br><b>Win 11</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/🚀_Antigravity-0d1117?style=for-the-badge&labelColor=0d1117" height="48" alt="Antigravity" />
+<br><b>Antigravity</b>
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" height="48" alt="Claude" />
+<br><b>Claude</b>
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="ChatGPT" />
+<br><b>ChatGPT</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+<br><b>LinkedIn</b>
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="48" alt="Ollama" />
+<br><b>Ollama</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ### ⭐️ Projects
 
@@ -65,8 +196,6 @@ Hit me up anytime and come vibe with my projects. Let's build some cool stuff to
 [tools-github]: https://img.shields.io/badge/-GitHub-000?style=flat-square&logoColor=white&logo=github
 [tools-intellij]: https://img.shields.io/badge/-IntelliJ_IDEA-000?style=flat-square&logoColor=white&logo=intellijidea
 [os-win]: https://img.shields.io/badge/-Windows-000?style=flat-square&logoColor=white&logo=windows11
-[os-ubuntu]: https://img.shields.io/badge/-Ubuntu-000?style=flat-square&logoColor=white&logo=ubuntu
-[other-chatgpt]: https://img.shields.io/badge/-ChatGPT-000?style=flat-square&logoColor=white&logo=openai
 [other-ollama]: https://img.shields.io/badge/-Ollama-000?style=flat-square&logoColor=white&logo=ollama
 [h-languages]: https://img.shields.io/badge/-LANGUAGES-000?style=flat-square
 [h-frontend]: https://img.shields.io/badge/-FRONTEND-000?style=flat-square
