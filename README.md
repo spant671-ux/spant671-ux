@@ -35,7 +35,12 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 > \[!NOTE]
 > Find more in my learning repos: [☕ Learning Java](https://github.com/spant671-ux/Learning-Java) · [🐍 Learning Python](https://github.com/spant671-ux/Learning-Python)
 
-### 👀 About Me
+### 👀 Social Media
+
+| ![](https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/left.svg) | ![](https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/right.svg) |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+
+### 🧑‍💻 About Me
 
 ```yaml
 name: Santosh Pant
@@ -68,7 +73,7 @@ fun_fact: "I push directly to main and call it a feature 🚀"
 
 Hit me up anytime and come vibe with my projects. Let's build some cool stuff together 😗😼❤️
 
-> _Inspired by [🧙‍♂️ canisminor1990](https://github.com/canisminor1990 "Profile README inspiration")_
+> _Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard "Generate lobe style product README by MAGIC")_
 
 <!-- SHIELD GROUP -->
 
