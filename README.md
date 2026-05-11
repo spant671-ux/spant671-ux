@@ -18,144 +18,15 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 
 ### 💫 Tech Stack and Tools
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><b>Python</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br><b>Java</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br><b>HTML5</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br><b>CSS3</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><b>React</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-<br><b>Vite</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
-<br><b>Tailwind</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><b>Node.js</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br><b>Express</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><b>MongoDB</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br><b>PostgreSQL</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br><b>MySQL</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
-<br><b>Anaconda</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br><b>Postman</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br><b>Figma</b>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="48" alt="Framer" />
-<br><b>Framer</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-<br><b>Vercel</b>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="48" alt="Notion" />
-<br><b>Notion</b>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/Codespaces-181717?style=for-the-badge&logo=github&logoColor=white" height="48" alt="GitHub Codespaces" />
-<br><b>Codespaces</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><b>Git</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><b>VS Code</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br><b>GitHub</b>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" height="48" alt="Windows Terminal" />
-<br><b>Terminal</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Win 11" />
-<br><b>Win 11</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/🚀_Antigravity-0d1117?style=for-the-badge&labelColor=0d1117" height="48" alt="Antigravity" />
-<br><b>Antigravity</b>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" height="48" alt="Claude" />
-<br><b>Claude</b>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="ChatGPT" />
-<br><b>ChatGPT</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-<br><b>LinkedIn</b>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="48" alt="Ollama" />
-<br><b>Ollama</b>
-</td>
-</tr>
-</table>
-
-</div>
+| ![][h-languages] | ![][lang-java] ![][lang-javascript] ![][lang-python] ![][lang-html] ![][lang-css]                                                                                     |
+| :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![][h-frontend]  | ![][frontend-react] ![][frontend-vite] ![][frontend-tailwind] ![][frontend-nodejs] ![][frontend-express]                                                              |
+| ![][h-database]  | ![][db-postgresql] ![][db-mysql] ![][db-mongodb]                                                                                                                      |
+| ![][h-design]    | ![][design-figma] ![][design-framer] ![][design-vercel] ![][design-notion]                                                                                            |
+| ![][h-tools]     | ![][tools-git] ![][tools-vscode] ![][tools-github] ![][tools-intellij] ![][tools-postman] ![][tools-anaconda] ![][tools-codespaces] ![][tools-terminal]                |
+| ![][h-os]        | ![][os-win11]                                                                                                                                                         |
+| ![][h-ai]        | ![][ai-antigravity] ![][ai-claude] ![][ai-chatgpt] ![][ai-ollama]                                                                                                     |
+| ![][h-connect]   | ![][connect-linkedin]                                                                                                                                                 |
 
 ### ⭐️ Projects
 
@@ -191,18 +62,33 @@ Hit me up anytime and come vibe with my projects. Let's build some cool stuff to
 [frontend-express]: https://img.shields.io/badge/-Express-000?style=flat-square&logoColor=white&logo=express
 [db-postgresql]: https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logoColor=white&logo=postgresql
 [db-mysql]: https://img.shields.io/badge/-MySQL-000?style=flat-square&logoColor=white&logo=mysql
+[db-mongodb]: https://img.shields.io/badge/-MongoDB-000?style=flat-square&logoColor=white&logo=mongodb
+[design-figma]: https://img.shields.io/badge/-Figma-000?style=flat-square&logoColor=white&logo=figma
+[design-framer]: https://img.shields.io/badge/-Framer-000?style=flat-square&logoColor=white&logo=framer
+[design-vercel]: https://img.shields.io/badge/-Vercel-000?style=flat-square&logoColor=white&logo=vercel
+[design-notion]: https://img.shields.io/badge/-Notion-000?style=flat-square&logoColor=white&logo=notion
 [tools-git]: https://img.shields.io/badge/-Git-000?style=flat-square&logoColor=white&logo=git
 [tools-vscode]: https://img.shields.io/badge/-VS_Code-000?style=flat-square&logoColor=white&logo=visualstudiocode
 [tools-github]: https://img.shields.io/badge/-GitHub-000?style=flat-square&logoColor=white&logo=github
 [tools-intellij]: https://img.shields.io/badge/-IntelliJ_IDEA-000?style=flat-square&logoColor=white&logo=intellijidea
-[os-win]: https://img.shields.io/badge/-Windows-000?style=flat-square&logoColor=white&logo=windows11
-[other-ollama]: https://img.shields.io/badge/-Ollama-000?style=flat-square&logoColor=white&logo=ollama
+[tools-postman]: https://img.shields.io/badge/-Postman-000?style=flat-square&logoColor=white&logo=postman
+[tools-anaconda]: https://img.shields.io/badge/-Anaconda-000?style=flat-square&logoColor=white&logo=anaconda
+[tools-codespaces]: https://img.shields.io/badge/-Codespaces-000?style=flat-square&logoColor=white&logo=github
+[tools-terminal]: https://img.shields.io/badge/-Terminal-000?style=flat-square&logoColor=white&logo=windowsterminal
+[os-win11]: https://img.shields.io/badge/-Win_11-000?style=flat-square&logoColor=white&logo=windows11
+[ai-antigravity]: https://img.shields.io/badge/-Antigravity-000?style=flat-square&logoColor=white&logo=google
+[ai-claude]: https://img.shields.io/badge/-Claude-000?style=flat-square&logoColor=white&logo=anthropic
+[ai-chatgpt]: https://img.shields.io/badge/-ChatGPT-000?style=flat-square&logoColor=white&logo=openai
+[ai-ollama]: https://img.shields.io/badge/-Ollama-000?style=flat-square&logoColor=white&logo=ollama
+[connect-linkedin]: https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logoColor=white&logo=linkedin
 [h-languages]: https://img.shields.io/badge/-LANGUAGES-000?style=flat-square
 [h-frontend]: https://img.shields.io/badge/-FRONTEND-000?style=flat-square
 [h-database]: https://img.shields.io/badge/-DATABASE-000?style=flat-square
+[h-design]: https://img.shields.io/badge/-DESIGN-000?style=flat-square
 [h-tools]: https://img.shields.io/badge/-TOOLS-000?style=flat-square
 [h-os]: https://img.shields.io/badge/-OS-000?style=flat-square
-[h-other]: https://img.shields.io/badge/-OTHER-000?style=flat-square
+[h-ai]: https://img.shields.io/badge/-AI-000?style=flat-square
+[h-connect]: https://img.shields.io/badge/-CONNECT-000?style=flat-square
 [phishguard-github]: https://github.com/spant671-ux/Phishing-Detection
 [phishguard-shield]: https://img.shields.io/github/stars/spant671-ux/Phishing-Detection?color=ffcb47&labelColor=black&style=flat-square&logo=github
 [ecomate-github]: https://github.com/spant671-ux/EcoMate
