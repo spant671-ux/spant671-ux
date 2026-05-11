@@ -38,10 +38,14 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 > \[!NOTE]
 > Find more in my learning repos: [☕ Learning Java](https://github.com/spant671-ux/Learning-Java) · [🐍 Learning Python](https://github.com/spant671-ux/Learning-Python)
 
-### 👀 Social Media
+### 📊 GitHub Stats
 
 | <img src="https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/left.svg" /> | <img src="https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/right.svg" /> |
 | :---: | :---: |
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/habits.svg" />
+</div>
 
 ---
 
