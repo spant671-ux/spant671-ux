@@ -22,20 +22,19 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 3
 
-      - name: 📊 Right Panel - Languages & Habits
+      - name: 📊 Right Panel - Languages & Achievements
         uses: lowlighter/metrics@latest
         with:
           filename: assets/right.svg
           token: ${{ secrets.GH_TOKEN }}
           user: spant671-ux
           base: ""
-          config_order: languages, habits
+          config_order: languages, achievements, followup
           plugin_languages: yes
-          plugin_languages_indepth: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts_type: classic
-          plugin_habits_trim: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_followup: yes
+          plugin_followup_sections: user
+
