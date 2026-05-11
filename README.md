@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/header.png" width="100%" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm 𝓢𝓪𝓷𝓽𝓸𝓼𝓱</h1>
 
