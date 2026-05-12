@@ -40,9 +40,10 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           user: spant671-ux
           base: ""
+          config_timezone: Asia/Kolkata
           config_order: habits
           plugin_habits: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 50
           plugin_habits_days: 14
           plugin_habits_facts: no
           plugin_habits_charts: yes
