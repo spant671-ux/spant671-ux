@@ -33,18 +33,15 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
 
-      - name: 📊 Bottom Panel - Habits
+      - name: 📊 Bottom Panel - Achievements
         uses: lowlighter/metrics@latest
         with:
-          filename: assets/habits.svg
+          filename: assets/achievements.svg
           token: ${{ secrets.GH_TOKEN }}
           user: spant671-ux
           base: ""
           config_timezone: Asia/Kolkata
-          config_order: habits
-          plugin_habits: yes
-          plugin_habits_from: 50
-          plugin_habits_days: 14
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
+          config_order: achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
