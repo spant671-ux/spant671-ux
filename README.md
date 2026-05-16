@@ -47,6 +47,19 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
   <img src="https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/achievements.svg" />
 </div>
 
+<!--START_SECTION:waka-->
+**I'm an Early 🐤**
+
+```text
+🌞 Morning                0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
+🌆 Daytime                0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
+🌃 Evening                0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
+🌙 Night                  0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
+```
+
+ Last Updated on 16/05/2026 10:12:00 UTC
+<!--END_SECTION:waka-->
+
 ---
 
 Hit me up anytime and come vibe with my projects. Let's build some cool stuff together 😗😼❤️
