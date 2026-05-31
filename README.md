@@ -69,21 +69,21 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                69 commits          ████████████████░░░░░░░░░   65.09 % 
-🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+🌞 Morning                0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
+🌆 Daytime                71 commits          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   65.74 % 
+🌃 Evening                31 commits          ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.70 % 
+🌙 Night                  6 commits           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.56 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   32 commits          ████████░░░░░░░░░░░░░░░░░   30.19 % 
-Tuesday                  21 commits          █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Friday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Sunday                   31 commits          ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+Monday                   32 commits          ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.63 % 
+Tuesday                  21 commits          ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.44 % 
+Wednesday                13 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.04 % 
+Thursday                 4 commits           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.70 % 
+Friday                   4 commits           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.70 % 
+Saturday                 1 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.93 % 
+Sunday                   33 commits          ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.56 % 
 ```
 
 
@@ -108,17 +108,17 @@ No Activity Tracked This Week
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+HTML                     2 repos             ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.00 % 
+JavaScript               2 repos             ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.00 % 
+Python                   1 repo              ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.50 % 
+Java                     1 repo              ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.50 % 
+TypeScript               1 repo              ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.50 % 
 ```
 
 
 
 
- Last Updated on 31/05/2026 08:29:01 UTC
+ Last Updated on 31/05/2026 08:35:36 UTC
 <!--END_SECTION:waka-->
 
 ---
