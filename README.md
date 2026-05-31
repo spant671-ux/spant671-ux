@@ -48,6 +48,8 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2058%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.88%20thousand%20lines%20of%20code-blue?style=flat)
@@ -56,7 +58,7 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 
 > 📦 9.4 kB Used in GitHub's Storage 
  > 
-> 🏆 226 Contributions in the Year 2026
+> 🏆 227 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,20 +70,20 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                68 commits          ████████████████░░░░░░░░░   64.76 % 
-🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+🌆 Daytime                69 commits          ████████████████░░░░░░░░░   65.09 % 
+🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   32 commits          ████████░░░░░░░░░░░░░░░░░   30.48 % 
-Tuesday                  21 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Friday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Sunday                   30 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Monday                   32 commits          ████████░░░░░░░░░░░░░░░░░   30.19 % 
+Tuesday                  21 commits          █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Friday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Sunday                   31 commits          ███████░░░░░░░░░░░░░░░░░░   29.25 % 
 ```
 
 
@@ -116,7 +118,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 31/05/2026 08:23:19 UTC
+ Last Updated on 31/05/2026 08:29:01 UTC
 <!--END_SECTION:waka-->
 
 ---
