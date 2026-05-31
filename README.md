@@ -48,16 +48,75 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 </div>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤**
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.88%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 9.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 226 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
-🌆 Daytime                0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
-🌃 Evening                0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
-🌙 Night                  0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                68 commits          ████████████████░░░░░░░░░   64.76 % 
+🌃 Evening                31 commits          ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   32 commits          ████████░░░░░░░░░░░░░░░░░   30.48 % 
+Tuesday                  21 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Friday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Sunday                   30 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
 ```
 
- Last Updated on 16/05/2026 10:12:00 UTC
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+
+
+
+
+ Last Updated on 31/05/2026 08:23:19 UTC
 <!--END_SECTION:waka-->
 
 ---
