@@ -48,20 +48,18 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2058%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-🌆 Daytime                73 commits          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   66.36 % 
-🌃 Evening                31 commits          ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.18 % 
-🌙 Night                  6 commits           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.45 % 
+🌆 Daytime                75 commits          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   66.96 % 
+🌃 Evening                31 commits          ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.68 % 
+🌙 Night                  6 commits           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.36 % 
 ```
 
 
 
- Last Updated on 31/05/2026 08:37:23 UTC
+ Last Updated on 31/05/2026 08:39:16 UTC
 <!--END_SECTION:waka-->
 
 ---
