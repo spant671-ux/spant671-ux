@@ -29,3 +29,4 @@ jobs:
           SHOW_UPDATED_DATE: "True"
           COMMIT_BY_ME: "True"
           LOCALE: "en"
+          SYMBOL_VERSION: "3"
