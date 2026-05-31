@@ -30,3 +30,4 @@ jobs:
           COMMIT_BY_ME: "True"
           LOCALE: "en"
           SYMBOL_VERSION: "3"
+          SHOW_TOTAL_CODE_TIME: "False"
