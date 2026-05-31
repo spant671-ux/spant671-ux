@@ -10,6 +10,10 @@ jobs:
     name: Update Readme with Waka Stats
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -31,3 +35,20 @@ jobs:
           LOCALE: "en"
           SYMBOL_VERSION: "3"
           SHOW_TOTAL_CODE_TIME: "False"
+
+      - name: Pull, Update Title to Busy Bee, and Push
+        run: |
+          git pull origin main
+          python -c "
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          content = content.replace('**I\'m an Early 🐤**', '**I\'m a Busy Bee 🐝**')
+          content = content.replace('**I\'m a Night 🦉**', '**I\'m a Busy Bee 🐝**')
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+          "
+          git config --global user.name 'spant671'
+          git config --global user.email 'spant671@gmail.com'
+          git add README.md
+          git diff-index --quiet HEAD || git commit -m 'style: update chronotype title to Busy Bee'
+          git push origin main
