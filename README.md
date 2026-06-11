@@ -48,18 +48,18 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 </div>
 
 <!--START_SECTION:waka-->
-**I'm a Busy Bee 🐝** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4 commits           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.29 % 
-🌆 Daytime                110 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   62.86 % 
-🌃 Evening                40 commits          ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.86 % 
-🌙 Night                  21 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.00 % 
+🌞 Morning                4 commits           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.26 % 
+🌆 Daytime                110 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   62.15 % 
+🌃 Evening                40 commits          ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.60 % 
+🌙 Night                  23 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.99 % 
 ```
 
 
 
- Last Updated on 10/06/2026 21:04:45 UTC
+ Last Updated on 11/06/2026 20:40:46 UTC
 <!--END_SECTION:waka-->
 
 ---
