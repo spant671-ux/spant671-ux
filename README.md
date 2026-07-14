@@ -16,7 +16,7 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 
 </div>
 
-### 💫 Tech Stack and Tools
+### 💫 Tech Stack and Tools used in Repositories
 
 | ![][h-languages] | ![][lang-java] ![][lang-javascript] ![][lang-python] ![][lang-html] ![][lang-css]                                                                                     |
 | :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
