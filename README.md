@@ -48,7 +48,7 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 </div>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm a Busy Bee 🐝** 
 
 ```text
 🌞 Morning                7 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.90 % 
