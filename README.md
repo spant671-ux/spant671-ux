@@ -50,7 +50,7 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2023%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
+**I'm a Busy Bee 🐝** 
 
 ```text
 🌞 Morning                7 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.72 % 
