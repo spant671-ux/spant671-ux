@@ -60,32 +60,6 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 ```
 
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 41 mins (24.28%)
-
-✍️ 742 lines written by AI, 257 lines written by hand (74.27% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 14 AI Prompts
-
-Gemini                   745 lines           ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 74.27% of written lines came from AI
-📝 Concise Prompter — average 15 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 32.42% of changed lines were hand-edited
-```
-
-
- Last Updated on 30/07/2026 19:58:07 UTC
-<!--END_SECTION:waka-->
-
 ---
 
 Hit me up anytime and come vibe with my projects. Let's build some cool stuff together 😗😼❤️
