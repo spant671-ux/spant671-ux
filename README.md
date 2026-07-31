@@ -47,8 +47,6 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
   <img src="https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/achievements.svg" />
 </div>
 
-<!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Busy Bee 🐝** 
 
