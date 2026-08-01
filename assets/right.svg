@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.05836317324375" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="171.05836317324375" y="0" width="111.34334969913988" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="282.4017128723836" y="0" width="88.05271512422017" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="370.4544279966038" y="0" width="48.10070508324412" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="418.5551330798479" y="0" width="41.444866920152094" height="8" fill="#0000ff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="173.2280915826246" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="173.2280915826246" y="0" width="110.50724718483626" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="283.7353387674608" y="0" width="87.39150727745113" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="371.126846044912" y="0" width="47.73950595847783" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="418.8663520033898" y="0" width="41.13364799661017" height="8" fill="#0000ff"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>37.19%</div>
+                                <div>37.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,7 +48,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>19.14%</div>
+                                <div>19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -59,7 +59,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>9.01%</div>
+                                <div>8.94%</div>
                             </small>
                         </div>
                     </section>
@@ -72,7 +72,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>24.21%</div>
+                                <div>24.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -83,7 +83,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>10.46%</div>
+                                <div>10.38%</div>
                             </small>
                         </div>
                     </section>
@@ -155,8 +155,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +12.2k</span>
-                                <span class="deleted"> -6.19k</span>
+                                <span class="added"> +12.4k</span>
+                                <span class="deleted"> -6.24k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -167,8 +167,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +8.22k</span>
-                                <span class="deleted"> -6.24k</span>
+                                <span class="added"> +8.25k</span>
+                                <span class="deleted"> -6.29k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -243,8 +243,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L56.867,140.5L65.8,140.5L298.067,140.5L324.867,140.5L333.8,140.5L342.733,140.5L351.667,140.5L360.6,140.5L369.533,140.5L378.467,140.5L387.4,140.5L396.333,140.5L405.267,140.5L414.2,140.5L423.133,140.5L432.067,140.5L441,140.5L441,130.401L432.067,133.368L423.133,95.761L414.2,134.862L405.267,134.578L396.333,42.091L387.4,123.133L378.467,132.61L369.533,124.9L360.6,138.365L351.667,125.636L342.733,82.822L333.8,137.491L324.867,137.839L298.067,5L65.8,137.029L56.867,110.467L39,102.956Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L56.867,140.5L65.8,140.5L298.067,140.5L324.867,140.5L333.8,140.5L342.733,140.5L351.667,140.5L360.6,140.5L369.533,140.5L378.467,140.5L387.4,140.5L396.333,140.5L405.267,140.5L414.2,140.5L423.133,140.5L432.067,140.5L441,140.5L441,146.685L432.067,145.171L423.133,171.7L414.2,144.781L405.267,144.413L396.333,192.003L387.4,147.148L378.467,146.422L369.533,146.664L360.6,142.362L351.667,148.432L342.733,165.599L333.8,142.888L324.867,141.226L298.067,151.219L65.8,143.151L56.867,144.634L39,148.263Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L56.867,140.5L65.8,140.5L298.067,140.5L324.867,140.5L333.8,140.5L342.733,140.5L351.667,140.5L360.6,140.5L369.533,140.5L378.467,140.5L387.4,140.5L396.333,140.5L405.267,140.5L414.2,140.5L423.133,140.5L432.067,140.5L441,140.5L441,127.95L432.067,133.368L423.133,95.761L414.2,134.862L405.267,134.578L396.333,42.091L387.4,123.133L378.467,132.61L369.533,124.9L360.6,138.365L351.667,125.636L342.733,82.822L333.8,137.491L324.867,137.839L298.067,5L65.8,137.029L56.867,110.467L39,102.956Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L56.867,140.5L65.8,140.5L298.067,140.5L324.867,140.5L333.8,140.5L342.733,140.5L351.667,140.5L360.6,140.5L369.533,140.5L378.467,140.5L387.4,140.5L396.333,140.5L405.267,140.5L414.2,140.5L423.133,140.5L432.067,140.5L441,140.5L441,147.727L432.067,145.171L423.133,171.7L414.2,144.781L405.267,144.413L396.333,192.003L387.4,147.148L378.467,146.422L369.533,146.664L360.6,142.362L351.667,148.432L342.733,165.599L333.8,142.888L324.867,141.226L298.067,151.219L65.8,143.151L56.867,144.634L39,148.263Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
