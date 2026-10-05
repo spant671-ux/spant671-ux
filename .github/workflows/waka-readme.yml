@@ -35,6 +35,8 @@ jobs:
           LOCALE: "en"
           SYMBOL_VERSION: "3"
           SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
 
       - name: Pull, Update Title to Busy Bee, and Push
         run: |

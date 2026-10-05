@@ -46,8 +46,6 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2051%20mins-blue?style=flat)
-
 **I'm a Busy Bee 🐝** 
 
 ```text
@@ -56,32 +54,6 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 🌃 Evening                145 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.62 % 
 🌙 Night                  278 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   45.28 % 
 ```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 31 mins (44.56%)
-
-✍️ 1,176 lines written by AI, 502 lines written by hand (70.08% AI-written)
-
-🔤 2,191,243 Input Tokens, 101,650 Output Tokens
-
-💵 $2.20 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 38 AI Prompts
-
-Gemini                   1,163 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   98.89 % 
-Github-Copilot           13 lines            ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.11 % 
-GPT                      0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 70.08% of written lines came from AI
-📝 Concise Prompter — average 78 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 62.17% of changed lines were hand-edited
-```
-
 
  Last Updated on 05/10/2026 06:46:05 UTC
 <!--END_SECTION:waka-->
