@@ -43,9 +43,6 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 | <img src="https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/left.svg" /> | <img src="https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/right.svg" /> |
 | :---: | :---: |
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/spant671-ux/spant671-ux/main/assets/achievements.svg" />
-</div>
 
 
 <!--START_SECTION:waka-->
