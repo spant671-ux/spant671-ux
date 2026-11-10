@@ -10,7 +10,8 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 ![][social-follow]
 [![][social-instagram-shield]][social-instagram-link]<br/>
 [![][social-linkedin-shield]][social-linkedin-link]
-[![][social-x-shield]][social-x-link]<br/>
+[![][social-x-shield]][social-x-link]
+[![][social-discord-shield]][social-discord-link]<br/>
 
 ![][split]
 
@@ -117,8 +118,10 @@ Hit me up anytime and come vibe with my projects. Let's build some cool stuff to
 [social-follow]: https://img.shields.io/github/followers/spant671-ux?style=flat-square&logo=github&labelColor=black&color=ffcb47
 [social-instagram-shield]: https://img.shields.io/badge/-sans.x3-black?labelColor=black&logo=instagram&logoColor=white&style=flat-square
 [social-instagram-link]: https://www.instagram.com/sans.x3
-[social-linkedin-shield]: https://img.shields.io/badge/-santoshpant-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square
+[social-linkedin-shield]: https://img.shields.io/badge/-santoshpant-black?labelColor=black&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&logoColor=white&style=flat-square
 [social-linkedin-link]: https://www.linkedin.com/in/santoshpant
 [social-x-shield]: https://img.shields.io/badge/-spant671-black?labelColor=black&logo=x&logoColor=white&style=flat-square
 [social-x-link]: https://x.com/spant671
+[social-discord-shield]: https://img.shields.io/badge/-sans.x3-black?labelColor=black&logo=discord&logoColor=white&style=flat-square
+[social-discord-link]: https://discord.com/users/1166383011248484375
 [split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
