@@ -34,7 +34,7 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 
 | [**🛡️ PhishGuard**][phishguard-github]<br/>An AI-powered phishing detection system combining local LLM inference (Ollama/Llama3) with a 12+ rule heuristic engine to detect phishing sites in real time.<br/><br/>![][phishguard-shield] | `70% LLM + 30% Rules` · Chrome MV3 · React Native · Privacy-first |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------- |
-| [**🌿 EcoMate**][ecomate-github]<br/>An environmental awareness platform built for a hackathon — helps users track and reduce their carbon footprint.<br/><br/>![][ecomate-shield]                                                       | Green-tech focused · Mobile-friendly · Hackathon submission        |
+| [**💼 Employee Management System**][ems-github]<br/>A responsive, role-based task and workflow management dashboard with dedicated Admin/Employee views, task assignment, and live status tracking.<br/><br/>![][ems-shield] | React 19 · Tailwind CSS · Vite · Role-based Auth |
 
 > \[!NOTE]
 > Find more in my learning repos: [☕ Learning Java](https://github.com/spant671-ux/Learning-Java) · [🐍 Learning Python](https://github.com/spant671-ux/Learning-Python)
@@ -112,8 +112,8 @@ Hit me up anytime and come vibe with my projects. Let's build some cool stuff to
 
 [phishguard-github]: https://github.com/spant671-ux/Phishing-Detection
 [phishguard-shield]: https://img.shields.io/github/stars/spant671-ux/Phishing-Detection?color=ffcb47&labelColor=black&style=flat-square&logo=github
-[ecomate-github]: https://github.com/spant671-ux/EcoMate
-[ecomate-shield]: https://img.shields.io/github/stars/spant671-ux/EcoMate?color=ffcb47&labelColor=black&style=flat-square&logo=github
+[ems-github]: https://github.com/spant671-ux/Employee-Management-System
+[ems-shield]: https://img.shields.io/github/stars/spant671-ux/Employee-Management-System?color=ffcb47&labelColor=black&style=flat-square&logo=github
 [social-student-developer]: https://img.shields.io/badge/%F0%9F%8E%93%26%E2%9A%92%EF%B8%8F-Student%20Developer-white?labelColor=black&style=flat-square
 [social-follow]: https://img.shields.io/github/followers/spant671-ux?style=flat-square&logo=github&labelColor=black&color=ffcb47
 [social-instagram-shield]: https://img.shields.io/badge/-sans.x3-black?labelColor=black&logo=instagram&logoColor=white&style=flat-square
