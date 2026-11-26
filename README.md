@@ -2,14 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%; vertical-align: middle;" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=38&pause=1000&color=FFFFFF&center=false&vCenter=true&width=360&height=50&lines=Hi+there%2C+I'm+Santosh" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=38&pause=1000&color=111111&center=false&vCenter=true&width=360&height=50&lines=Hi+there%2C+I'm+Santosh" />
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=38&pause=1000&color=FFFFFF&center=false&vCenter=true&width=360&height=50&lines=Hi+there%2C+I'm+Santosh" alt="Hi there, I'm Santosh" style="vertical-align: middle;" />
-  </picture>
-</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm 𝓢𝓪𝓷𝓽𝓸𝓼𝓱</h1>
 
 As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped about open source projects & Dedicated to building cool sh\*t while learning
 
