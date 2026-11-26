@@ -21,13 +21,12 @@ As a **Student Developer** chillin' in Uttarakhand, India 🏔️<br/>Hyped abou
 
 | ![][h-languages] | ![][lang-java] ![][lang-javascript] ![][lang-python] ![][lang-html] ![][lang-css]                                                                                     |
 | :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![][h-frontend]  | ![][frontend-react] ![][frontend-vite] ![][frontend-tailwind] ![][frontend-nodejs] ![][frontend-express]                                                              |
+| ![][h-frontend]  | ![][frontend-react] ![][frontend-vite] ![][frontend-tailwind]                                                                                                         |
+| ![][h-backend]   | ![][backend-nodejs] ![][backend-express]                                                                                                                              |
 | ![][h-database]  | ![][db-postgresql] ![][db-mysql] ![][db-mongodb]                                                                                                                      |
-| ![][h-design]    | ![][design-figma] ![][design-framer] ![][design-vercel]                                                                                                               |
+| ![][h-design]    | ![][design-figma] ![][design-framer]                                                                                                                                  |
 | ![][h-ide]       | ![][ide-vscode] ![][ide-antigravity] ![][ide-codespaces]                                                                                                              |
 | ![][h-tools]     | ![][tools-git] ![][tools-github] ![][tools-intellij] ![][tools-postman] ![][tools-anaconda]                                                                           |
-| ![][h-shell]     | ![][shell-terminal]                                                                                                                                                   |
-| ![][h-os]        | ![][os-win11]                                                                                                                                                         |
 | ![][h-other]     | ![][other-chatgpt] ![][other-claude] ![][other-ollama] ![][other-notion]                                                                                              |
 
 ### ⭐️ Projects
@@ -78,14 +77,13 @@ Hit me up anytime and come vibe with my projects. Let's build some cool stuff to
 [frontend-react]: https://img.shields.io/badge/-React-000?style=flat-square&logoColor=white&logo=react
 [frontend-vite]: https://img.shields.io/badge/-Vite-000?style=flat-square&logoColor=white&logo=vite
 [frontend-tailwind]: https://img.shields.io/badge/-TailwindCSS-000?style=flat-square&logoColor=white&logo=tailwindcss
-[frontend-nodejs]: https://img.shields.io/badge/-Node.js-000?style=flat-square&logoColor=white&logo=node.js
-[frontend-express]: https://img.shields.io/badge/-Express-000?style=flat-square&logoColor=white&logo=express
+[backend-nodejs]: https://img.shields.io/badge/-Node.js-000?style=flat-square&logoColor=white&logo=node.js
+[backend-express]: https://img.shields.io/badge/-Express-000?style=flat-square&logoColor=white&logo=express
 [db-postgresql]: https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logoColor=white&logo=postgresql
 [db-mysql]: https://img.shields.io/badge/-MySQL-000?style=flat-square&logoColor=white&logo=mysql
 [db-mongodb]: https://img.shields.io/badge/-MongoDB-000?style=flat-square&logoColor=white&logo=mongodb
 [design-figma]: https://img.shields.io/badge/-Figma-000?style=flat-square&logoColor=white&logo=figma
 [design-framer]: https://img.shields.io/badge/-Framer-000?style=flat-square&logoColor=white&logo=framer
-[design-vercel]: https://img.shields.io/badge/-Vercel-000?style=flat-square&logoColor=white&logo=vercel
 [ide-vscode]: https://img.shields.io/badge/-VS_Code-000?style=flat-square&logoColor=white&logo=visualstudiocode
 [ide-antigravity]: https://img.shields.io/badge/-Antigravity-000?style=flat-square&logoColor=white&logo=google
 [ide-codespaces]: https://img.shields.io/badge/-Codespaces-000?style=flat-square&logoColor=white&logo=github
@@ -94,20 +92,17 @@ Hit me up anytime and come vibe with my projects. Let's build some cool stuff to
 [tools-intellij]: https://img.shields.io/badge/-IntelliJ_IDEA-000?style=flat-square&logoColor=white&logo=intellijidea
 [tools-postman]: https://img.shields.io/badge/-Postman-000?style=flat-square&logoColor=white&logo=postman
 [tools-anaconda]: https://img.shields.io/badge/-Anaconda-000?style=flat-square&logoColor=white&logo=anaconda
-[shell-terminal]: https://img.shields.io/badge/-Terminal-000?style=flat-square&logoColor=white&logo=windowsterminal
-[os-win11]: https://img.shields.io/badge/-Win_11-000?style=flat-square&logoColor=white&logo=windows11
 [other-chatgpt]: https://img.shields.io/badge/-ChatGPT-000?style=flat-square&logoColor=white&logo=openai
 [other-claude]: https://img.shields.io/badge/-Claude-000?style=flat-square&logoColor=white&logo=anthropic
 [other-ollama]: https://img.shields.io/badge/-Ollama-000?style=flat-square&logoColor=white&logo=ollama
 [other-notion]: https://img.shields.io/badge/-Notion-000?style=flat-square&logoColor=white&logo=notion
 [h-languages]: https://img.shields.io/badge/-LANGUAGES-000?style=flat-square
 [h-frontend]: https://img.shields.io/badge/-FRONTEND-000?style=flat-square
+[h-backend]: https://img.shields.io/badge/-BACKEND-000?style=flat-square
 [h-database]: https://img.shields.io/badge/-DATABASE-000?style=flat-square
 [h-design]: https://img.shields.io/badge/-DESIGN-000?style=flat-square
 [h-ide]: https://img.shields.io/badge/-IDE-000?style=flat-square
 [h-tools]: https://img.shields.io/badge/-TOOLS-000?style=flat-square
-[h-shell]: https://img.shields.io/badge/-SHELL-000?style=flat-square
-[h-os]: https://img.shields.io/badge/-OS-000?style=flat-square
 [h-other]: https://img.shields.io/badge/-OTHER-000?style=flat-square
 
 [phishguard-github]: https://github.com/spant671-ux/Phishing-Detection
